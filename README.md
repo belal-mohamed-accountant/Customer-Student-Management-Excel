@@ -5,10 +5,10 @@ It provides an easy-to-use interface for managing customers or students, recordi
 
 ---
 
-![Preview](https://github.com/belal-mohamed-accountant/Customer-Student-Management-VBA-Excel/blob/main/screen1.JPG?raw=true)
-![Preview](https://github.com/belal-mohamed-accountant/Customer-Student-Management-VBA-Excel/blob/main/screen2.JPG?raw=true)
-![Preview](https://github.com/belal-mohamed-accountant/Customer-Student-Management-VBA-Excel/blob/main/screen3.JPG?raw=true)
-![Preview](https://github.com/belal-mohamed-accountant/Customer-Student-Management-VBA-Excel/blob/main/screen4.JPG?raw=true)
+![Preview](https://github.com/belal-mohamed-accountant/Customer-Student-Management-Excel/blob/main/screen1.JPG?raw=true)
+![Preview](https://github.com/belal-mohamed-accountant/Customer-Student-Management-Excel/blob/main/screen2.JPG?raw=true)
+![Preview](https://github.com/belal-mohamed-accountant/Customer-Student-Management-Excel/blob/main/screen3.JPG?raw=true)
+![Preview](https://github.com/belal-mohamed-accountant/Customer-Student-Management-Excel/blob/main/screen4.JPG?raw=true)
 
 ---
 
